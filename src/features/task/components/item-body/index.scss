@@ -1,0 +1,14 @@
+.custom-date-picker {
+    .ant-picker-input input::placeholder{
+        color: #4F4F4F;
+    }
+
+    .ant-picker-suffix {
+        color: #4F4F4F;
+    }
+}
+
+.ant-dropdown .ant-dropdown-menu .ant-dropdown-menu-item-selected {
+    color: #4F4F4F;
+    border: 1px solid #2F80ED;
+}
