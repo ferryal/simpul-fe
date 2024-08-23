@@ -1,0 +1,9 @@
+.custom-search-box {
+    .ant-input {
+        line-height: 0;
+    }
+    
+    .ant-input::placeholder{
+        color: #333;
+    }
+}
