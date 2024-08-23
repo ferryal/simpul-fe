@@ -1,0 +1,190 @@
+[
+  {
+    "id": "1",
+    "name": "109220-Naturalization",
+    "isGroup": true,
+    "inboxesId": "1",
+    "totalParticipants": 3,
+    "lastUnReadChatId": "1717693200-4",
+    "chats": {
+        "1717606800": [
+          {
+            "id": "1717606800-1",
+            "chat": "Just Fill me in for his updates yea?",
+            "sender": "Mary Hilda",
+            "senderColor": "#E5A443",
+            "time": 1717635600,
+            "bubbleColor": "#FCEED3"
+          },
+          {
+            "id": "1717606800-2",
+            "chat": "No worries. It will be completed ASAP. I've asked him yesterday.",
+            "sender": "You",
+            "senderColor": "#9B51E0",
+            "time": 1717636200,
+            "bubbleColor": "#EEDCFF"
+          }
+        ],
+        "1717693200": [
+          {
+            "id": "1717693200-1",
+            "chat": "Hello Obaidullah, I will be your case advisor for case #029290. I have assigned some homework for you to fill. Please keep up with the due dates. Should you have any questions, you can message me anytime. Thanks.",
+            "sender": "Mary Hilda",
+            "senderColor": "#E5A443",
+            "time": 1717726260,
+            "bubbleColor": "#FCEED3"
+          },
+          {
+            "id": "1717693200-2",
+            "replyId": "1717693200-1",
+            "chat": "Please contact Mary for questions regarding the case bcs she will be managing your forms from now on! Thanks Mary.",
+            "sender": "You",
+            "senderColor": "#9B51E0",
+            "time": 1717726320,
+            "bubbleColor": "#EEDCFF"
+          },
+          {
+            "id": "1717693200-3",
+            "chat": "Sure thing, Claren",
+            "sender": "Mary Hilda",
+            "senderColor": "#E5A443",
+            "time": 1717726380,
+            "bubbleColor": "#FCEED3"
+          },
+          {
+            "id": "1717693200-4",
+            "chat": "Morning. I'll try to do them. Thanks",
+            "sender": "Obaidullah Amarkhil",
+            "senderColor": "#43B78D",
+            "time": 1717726440,
+            "bubbleColor": "#D2F2EA"
+          }
+        ]
+      }
+  },
+  {
+    "id": "2",
+    "name": "Jeannette Moraima Guaman Chamba (Hutto I-589) [ Hutto Follow Up - Brief Service ]",
+    "isGroup": true,
+    "inboxesId": "2",
+    "totalParticipants": 3,
+    "lastUnReadChatId": "",
+    "chats": {
+        "1717434000": [
+          {
+            "id": "1717434000-1",
+            "chat": "Just Fill me in for his updates yea?",
+            "sender": "Mary Hilda",
+            "senderColor": "#E5A443",
+            "time": 1717477260,
+            "bubbleColor": "#FCEED3"
+          },
+          {
+            "id": "1717434000-2",
+            "chat": "No worries. It will be completed ASAP. I've asked him yesterday.",
+            "sender": "You",
+            "senderColor": "#9B51E0",
+            "time": 1717477440,
+            "bubbleColor": "#EEDCFF"
+          }
+        ],
+        "1717520400": [
+          {
+            "id": "1717520400-1",
+            "chat": "Hello Obaidullah, I will be your case advisor for case #029290. I have assigned some homework for you to fill. Please keep up with the due dates. Should you have any questions, you can message me anytime. Thanks.",
+            "sender": "Mary Hilda",
+            "senderColor": "#E5A443",
+            "time": 1717561800,
+            "bubbleColor": "#FCEED3"
+          },
+          {
+            "id": "1717520400-2",
+            "replyId": "1717520400-1",
+            "chat": "Please contact Mary for questions regarding the case bcs she will be managing your forms from now on! Thanks Mary.",
+            "sender": "You",
+            "senderColor": "#9B51E0",
+            "time": 1717561980,
+            "bubbleColor": "#EEDCFF"
+          },
+          {
+            "id": "1717520400-3",
+            "chat": "Sure thing, Claren",
+            "sender": "Mary Hilda",
+            "senderColor": "#E5A443",
+            "time": 1717562400,
+            "bubbleColor": "#FCEED3"
+          }
+        ]
+      }
+  },
+  {
+    "id": "3",
+    "name": "8405-Diana SALAZAR MUNGUIA",
+    "isGroup": true,
+    "inboxesId": "3",
+    "totalParticipants": 3,
+    "lastUnReadChatId": "",
+    "chats": {
+      "1717261200": [
+        {
+          "id": "1717261200-1",
+          "chat": "Just Fill me in for his updates yea?",
+          "sender": "Mary Hilda",
+          "senderColor": "#E5A443",
+          "time": 1717298100,
+          "bubbleColor": "#FCEED3"
+        },
+        {
+          "id": "1717261200-2",
+          "chat": "No worries. It will be completed ASAP. I've asked him yesterday.",
+          "sender": "You",
+          "senderColor": "#9B51E0",
+          "time": 1717298220,
+          "bubbleColor": "#EEDCFF"
+        }
+      ],
+      "1717347600": [
+        {
+          "id": "1717347600-1",
+          "chat": "Hello Obaidullah, I will be your case advisor for case #029290. I have assigned some homework for you to fill. Please keep up with the due dates. Should you have any questions, you can message me anytime. Thanks.",
+          "sender": "Mary Hilda",
+          "senderColor": "#E5A443",
+          "time": 1717404240,
+          "bubbleColor": "#FCEED3"
+        },
+        {
+          "id": "1717347600-2",
+          "replyId": "1717347600-1",
+          "chat": "Please contact Mary for questions regarding the case bcs she will be managing your forms from now on! Thanks Mary.",
+          "sender": "You",
+          "senderColor": "#9B51E0",
+          "time": 1717404300,
+          "bubbleColor": "#EEDCFF"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4",
+    "name": "FastVisa Support",
+    "isGroup": false,
+    "inboxesId": "4",
+    "totalParticipants": 1,
+    "chats": {
+      "1717174800": [
+        {
+          "id": "1717174800-1",
+          "chat": "Hey there. Welcome to your inbox! Contact us for more information and help about anything! We'll send you a response as soon as possible.",
+          "sender": "FastVisa Support",
+          "time": 1717245120
+        },
+        {
+          "id": "1717174800-2",
+          "chat": "Hi, I need help with something can you help me ?",
+          "sender": "You",
+          "time": 1717245300
+        }
+      ]
+    }
+  }
+]
